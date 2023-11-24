@@ -1,0 +1,10 @@
+nav {
+    height: 50px;
+    background-color: blue;
+    z-index: 9999999999;
+    color: white;
+}
+
+h1, h2, h3, h4, h5, p {
+    font-family:'Times New Roman', Times, serif
+}
